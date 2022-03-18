@@ -12,3 +12,8 @@ After the task is finished the jar will be generated in 'build > libs'.
 # Running the Project
 There's many ways to run a jar, But FileCreator wont work if you just double click on the jar.
 
+FileCreator was designed to only run on Command Prompt/Console.
+
+To launch FileCreator we need to open Command Prompt, When its open run 'cd (directory that the jar is in)' so command prompt can find the jar.
+Then run 'java -jar (jar name).jar' and it should work.
+
