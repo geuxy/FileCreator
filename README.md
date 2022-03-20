@@ -1,5 +1,5 @@
 # FileCreator
-random thing i made that makes files for fun!
+random thing i made that makes files for fun and understanding File and Scanner a bit better!
 
 # Setting up the Workspace
 If you want to setup the workspace you must use IntelliJ IDEA because some IDEs dont support gradle unless you use a plugin, with IntelliJ you don't need to install anything since its built-in.
